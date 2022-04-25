@@ -1,0 +1,8 @@
+tensorflow
+pillow 
+Cython 
+lxml 
+matplotlib
+lxml
+jupyter
+

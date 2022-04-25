@@ -1,0 +1,5 @@
+conda create -n tica_detector python=3.8 -y
+conda activate tica_detector
+pip install ipykernel
+python -m ipykernel install --user --name=tica_detector_venv
+jupyter notebook
